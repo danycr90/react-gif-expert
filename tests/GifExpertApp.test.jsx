@@ -11,7 +11,6 @@ describe('Pruebas de <GifExpertApp />', () => {
       />
     )
 
-    screen.debug()
     expect( container ).toMatchSnapshot();
   })
 

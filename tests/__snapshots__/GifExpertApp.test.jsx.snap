@@ -1,31 +1,5 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Pruebas de <GifExpertApp /> debe de cambiar el valor de la caja de texto 1`] = `
-<div>
-  <h1>
-    GifExpertApp
-  </h1>
-  <form
-    aria-label="form"
-  >
-    <input
-      placeholder="Buscar Gifs"
-      type="text"
-      value=""
-    />
-  </form>
-  <h3>
-    One Punch
-  </h3>
-  <h2>
-    Cargando...
-  </h2>
-  <div
-    class="card-grid"
-  />
-</div>
-`;
-
 exports[`Pruebas de <GifExpertApp /> debe renderizar la página 1`] = `
 <div>
   <h1>
